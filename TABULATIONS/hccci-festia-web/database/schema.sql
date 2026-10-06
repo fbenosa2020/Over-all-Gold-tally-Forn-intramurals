@@ -1,0 +1,62 @@
+CREATE DATABASE IF NOT EXISTS hccci_festia CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE hccci_festia;
+CREATE TABLE IF NOT EXISTS users (
+ id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ username VARCHAR(100) NOT NULL UNIQUE,
+ password_hash VARCHAR(255) NOT NULL,
+ role VARCHAR(32) NOT NULL DEFAULT 'admin'
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS scores (
+ id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ event_id INT NOT NULL,
+ division VARCHAR(100) NOT NULL DEFAULT '',
+ team VARCHAR(100) NOT NULL,
+ contestant VARCHAR(255) NOT NULL DEFAULT '',
+ judge VARCHAR(255) NOT NULL DEFAULT '',
+ details LONGTEXT NOT NULL,
+ raw DOUBLE NULL,
+ deduction DOUBLE NOT NULL DEFAULT 0,
+ final DOUBLE NULL,
+ match_result TEXT NOT NULL,
+ remarks TEXT NOT NULL,
+ created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ created_by BIGINT UNSIGNED NULL,
+ updated_by BIGINT UNSIGNED NULL,
+ INDEX idx_scores_event (event_id,division),
+ INDEX idx_scores_team (team)
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS gold_awards (
+ id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ event_id INT NOT NULL,
+ division VARCHAR(100) NOT NULL DEFAULT '',
+ award_name VARCHAR(255) NOT NULL,
+ team VARCHAR(100) NOT NULL,
+ winner_name VARCHAR(255) NOT NULL DEFAULT '',
+ placement INT NULL,
+ gold_points DOUBLE NOT NULL,
+ notes TEXT NOT NULL,
+ created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ created_by BIGINT UNSIGNED NULL,
+ updated_by BIGINT UNSIGNED NULL,
+ CONSTRAINT chk_gold_nonnegative CHECK (gold_points >= 0),
+ INDEX idx_gold_team (team),
+ INDEX idx_gold_event (event_id)
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS audit_logs (
+ id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ actor_id BIGINT UNSIGNED NULL,
+ actor_username VARCHAR(100) NOT NULL,
+ action VARCHAR(50) NOT NULL,
+ entity_type VARCHAR(50) NOT NULL,
+ entity_id BIGINT UNSIGNED NULL,
+ before_json LONGTEXT NULL,
+ after_json LONGTEXT NULL,
+ ip_address VARCHAR(64) NULL,
+ occurred_at VARCHAR(32) NOT NULL,
+ previous_hash CHAR(64) NOT NULL,
+ entry_hash CHAR(64) NOT NULL,
+ INDEX idx_audit_time (id),
+ INDEX idx_audit_actor (actor_username,id)
+) ENGINE=InnoDB;

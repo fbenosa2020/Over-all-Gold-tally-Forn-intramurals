@@ -1,0 +1,10 @@
+LOCAL XAMPP SETUP (example config.php included)
+1. Extract hccci-festia-web into C:\xampp\htdocs\TABULATIONS\
+   Confirm C:\xampp\htdocs\TABULATIONS\hccci-festia-web\config.php exists.
+2. Start Apache and MySQL in XAMPP.
+3. Open http://localhost/phpmyadmin and import database/schema.sql.
+4. If your MySQL root has a password, edit config.php accordingly.
+5. Open http://localhost/TABULATIONS/hccci-festia-web/
+IMPORTANT: bundled config.php is for local default XAMPP (root, blank password) only.
+Create a restricted database user and move secrets outside web root for deployment.
+If still failing, check whether Windows saved config.php as config.php.txt.

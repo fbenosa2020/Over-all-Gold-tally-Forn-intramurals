@@ -1,0 +1,749 @@
+[
+  {
+    "id": 1,
+    "name": "Impromptu Speech",
+    "irr": "Impromptu Speech\nMaluwag na Talumpati\nDeclamation\nQuiz Bowl\nStory Telling\nSpoken Poetry\nIMPROMPTU SPEECH\nEach team is entitled for one (1) participant for each event. The name of the participant shall be submitted on September 21, 2026 1:00 PM to 5:00 PM.\nTopics for the competition will be general.\nThe topic will be prepared by the SSC Academic and Literary Committee and will be verified by the Academic and Literary Consultant.\nThe participant should start their presentation after reading the question.\nThe participants will deliver impromptu speeches in English or \"Dagliang Talumpati\" (spontaneous speeches) in Filipino, discussing the topic they have drawn. They will share their perspectives, insights, and potential solutions to the issue at hand.\nThe contestant will be given a maximum of 3 minutes for delivery. A point fifty (.50) point shall be deducted from the total score of the contestant per judge’s sheet for every 10 seconds excess of the time allotted.\nPresentation can be conversational or oratorical or a combination of conversation and discourse.\nSound effects, backgrounds, or props are not allowed.\nThe participants are required to wear formal attire. For men, this entails long sleeves, pants or slacks, and closed-toe shoes, while women are expected to wear dresses that are not above the knee. Violating the dress code will result in a deduction of 10 points.\nThere will be an official clock to be displayed and will be provided by the OFFICIAL TABULATORS for the benefit of the audience and consistency of the time. The timer will start as soon as the bell rings.\nThe time keeper from the OFFICIAL TABULATORS will announce the time the contestant has spoken.\nFlags will be raised to indicate the time of his/her performance. Yellow flag means warning (30 seconds before the maximum time of delivery) and the red flag means maximum time has reached.\nThe verdict of the jury is final.\nJudging Criteria",
+    "source": "578–603",
+    "criteria": [
+      {
+        "label": "Content (related to topic, totality, and structural clarity)",
+        "max": 35
+      },
+      {
+        "label": "Expression (voice, pronunciation, and appropriate use of words)",
+        "max": 35
+      },
+      {
+        "label": "Attitude or Personality (posture, gesture, or act of direct interaction)",
+        "max": 30
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 2,
+    "name": "Maluwag na Talumpati",
+    "irr": "MALUWAG NA TALUMPATI\nAng paksa ng talumpati ay ibibigay ng Lupon ng Inampalan sa mismong araw ng patimpalak.\nAng bawat kalahok ay bibigyan ng isang (1) minutong paghahanda bago ang kanilang pagsasalita.\nAng talumpati ay dapat tumagal ng hindi bababa sa tatlong (3) na minuto at hindi hihigit sa limang (5) minuto. Isang (1) puntos ang ibabawas sa bawat minutong kulang o lumampas sa itinakdang oras.\nAng paglalahad ng talumpati ay maaaring sa anyo ng:\nPakikipag-usap (conversational)\nPampanitikang talumpati (oratorical)\nPinagsamang pakikipag-usap at pampanitikang talumpati\nAng paggamit ng sound effects, background music, at props ay mahigpit na ipinagbabawal.\nDapat angkop sa okasyon ang kasuotan ng mga kalahok.\nAng desisyon ng Lupon ng Inampalan ay pinal at hindi na mababago.\nPamantayan sa Pagpapasya\nPaalala: Siguraduhing maging maayos, malinaw, at makabuluhan ang inyong talumpati. Maging natural at epektibo sa inyong pamamahayag upang mas mapukaw ang damdamin ng inyong tagapakinig.",
+    "source": "604–620",
+    "criteria": [
+      {
+        "label": "Nilalaman (kaugnayan sa paksa, kabuuan, kaayusan ng diwa, at kalinawan ng mensahe)",
+        "max": 35
+      },
+      {
+        "label": "Paglalahad (tinig, tamang pagbigkas, at akmang gamit ng mga salita)",
+        "max": 35
+      },
+      {
+        "label": "Tikas at Personalidad (tindig, kilos, at wastong pakikipag-ugnayan sa tagapakinig)",
+        "max": 30
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 3,
+    "name": "Declamation",
+    "irr": "DECLAMATION\nEach team is entitled for one (1) participant for each event. The name of the participant shall be submitted on September 21, 2026 1:00 PM to 5:00 PM.\nEvery participant will send the one (1) declamation piece two weeks before the contest.\nParticipants shall memorize the piece and present it on the day of the event. Notes and cue cards are not allowed during the contest. A deduction of ten (10) points will be given if participants use cue cards or notes.\nThe contestant will be given 3 minutes for delivery. A point fifty (.50) point shall be deducted from the total score of the contestant per judge’s sheet for every 10 seconds excess of the time allotted.\nUse of offensive language or gestures is strictly prohibited.\nParticipants shall be in an appropriate costume and shall use props whenever necessary. Props and other materials are permitted as long as they do not cause any accidents during the competition. However, fireworks, firecrackers, and similar items are not allowed. Furthermore, the use of sharp objects (such as knives, scissors, cutters, etc.) and possession of indecent materials are prohibited.\nThe participants are required to wear formal attire. For men, this entails long sleeves, pants or slacks, and closed-toe shoes, while women are expected to wear dresses that are not above the knee. Violating the dress code will result in a deduction of 10 points.\nThere will be an official clock to be displayed and will be provided by the OFFICIAL TABULATORS for the benefit of the audience and consistency of the time. The timer will start as soon as the bell rings.\nThe time keeper from the OFFICIAL TABULATORS will announce the time the contestant has spoken.\nFlags will be raised to indicate the time of his/her performance. Yellow flag means warning (30 seconds before the maximum time of delivery) and the red flag means maximum time has reached.\nUpon submission of the results to the committee, judges’ decisions shall be considered final and irrevocable.",
+    "source": "621–642",
+    "criteria": [
+      {
+        "label": "Overall Interpretation",
+        "max": 40
+      },
+      {
+        "label": "Vocal Aspects",
+        "max": 40
+      },
+      {
+        "label": "Costume and Props",
+        "max": 10
+      },
+      {
+        "label": "Mastery",
+        "max": 10
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 4,
+    "name": "Quiz Bowl",
+    "irr": "QUIZ BOWL\nEach team is required to have three (3) participants for the said competition. Names of participants shall be submitted on September 21, 2026, 1:00 PM to 5:00 PM.\nQuestions shall be prepared solely by the Committee.\nEach team must have three (3) contestants.\nContestants will answer the same set of questions in writing. Before a question is read, the contestant must raise both hands. Each team will be provided with a whiteboard, marker, and eraser provided by the SSC.\nThe question will be read twice by the Quizmaster. After the second reading, the Quizmaster shall say “go”; only then will the team be allowed to write the answer. Automatically, the ten-second time limit will begin with the word “go” by the Quizmaster. If a question requires enumeration and problem-solving, the time limit will be extended by ten (10) more seconds.\nAfter the time limit, a buzzer will ring; the team should stop writing and raise their whiteboard with the answers. The proctors will validate the correctness of their answers. The whiteboard should be raised until the Quizmaster says so.\nThe contest will have three (3) rounds, Easy round, Average round, and Difficult round.\nThe Easy round will consist of fifteen (15) questions, with each correct answer worth 3 points.\nThe Average round will consist of ten (10) questions, with each correct answer worth 5 points.\nThe Difficult round will consist of five (5) questions, with each correct answer worth 10 points.\nAfter all three rounds, the accumulated scores from each round will be tallied, and the winner will be determined based on the highest score. In the event of a tie, a tiebreaker question will be provided to determine the ultimate winner.\nThe duly registered teacher-coach of the team is the only person authorized to protest. All protests should be referred to the Board of Judges immediately before the Quizmaster reads the next question.",
+    "source": "643–655",
+    "criteria": [
+      {
+        "label": "Easy: 15 questions × 3 points",
+        "max": 45
+      },
+      {
+        "label": "Average: 10 questions × 5 points",
+        "max": 50
+      },
+      {
+        "label": "Difficult: 5 questions × 10 points",
+        "max": 50
+      }
+    ],
+    "type": "quiz"
+  },
+  {
+    "id": 5,
+    "name": "Story Telling",
+    "irr": "STORYTELLING\nEach team is entitled for one (1) participant for each event. The name of the participant shall be submitted on September 21, 2026 1:00 PM to 5:00 PM.\nEvery contestant will send the script of the story to the Committee on September 21, 2026, 1:00 PM to 5:00 PM (3 copies of your story). Late submissions shall be deducted 5 points per day until the event day.\nThe theme of the story must be “Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\".\nThe contestant is free to choose, provide, and use materials needed to tell the story. Props and other materials are permitted as long as they do not cause any accidents during the competition. However, fireworks, firecrackers, and similar items are not allowed. Furthermore, the use of sharp objects (such as knives, scissors, cutters, etc.) and possession of indecent materials are prohibited.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.\nPerformance should be a minimum of 6 minutes and a maximum of 8 minutes. Exceeding or falling short of the time limit will result in a deduction of 1 point per minute.\nA brief introduction identifying the author, title, and intended audience is required.\nThe participants may stand up and move or sit in the chair while delivering their story.\nBackground music is allowed throughout the entire performance.\nNotes are not permitted. Participants will be deducted 10 points if they violate the rule, per judge’s sheet.\nParticipants are allowed to add proper improvisations.\nThere will be an official clock to be displayed and will be provided by the OFFICIAL TABULATORS for the benefit of the audience and consistency of the time. The timer will start as soon as the bell rings.\nThe time keeper from the OFFICIAL TABULATORS will announce the time the contestant has spoken.\nFlags will be raised to indicate the time of his/her performance. Yellow flag means warning (30 seconds before the maximum time of delivery) and the red flag means maximum time has reached.\nThe decision of the judges is final.\nJudging Criteria",
+    "source": "656–675",
+    "criteria": [
+      {
+        "label": "Mastery",
+        "max": 30
+      },
+      {
+        "label": "Delivery",
+        "max": 20
+      },
+      {
+        "label": "Clarity",
+        "max": 20
+      },
+      {
+        "label": "Content",
+        "max": 30
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 6,
+    "name": "Spoken Poetry",
+    "irr": "SPOKEN POETRY\nEach team is required to send 1 participant to showcase their talent in spoken poetry.\nThe spoken poetry piece may be performed in either English or Filipino.\nEach participant shall perform an original spoken poetry piece that aligns with the given theme. Plagiarism is strictly prohibited.\nThe performance must be between 2 to 5 minutes long. A 1-point deduction per judge will be applied for every 30 seconds under or over the time limit.\nThe spoken poetry must be delivered from memory. Reading from a script or any written material is not allowed.\nBackground music and sound effects are allowed but should not overpower the performer’s voice. Minimal props may be used, but excessive use is discouraged.\nAttire must be appropriate to the theme and the message of the piece. Costumes should not be overly elaborate or distracting.\nExpressions, gestures, and body movements must complement the delivery and enhance the impact of the performance.\nThe decision of the judges is final and irrevocable.\nCRITERIA FOR JUDGING",
+    "source": "676–692",
+    "criteria": [
+      {
+        "label": "Content and Relevance (Originality, clarity of message, depth, and connection to the theme)",
+        "max": 40.0
+      },
+      {
+        "label": "Delivery and Performance (Expression, tone, voice modulation, memorization, and stage presence)",
+        "max": 35.0
+      },
+      {
+        "label": "Emotional Impact (Effectiveness in conveying emotions and engaging the audience)",
+        "max": 15.0
+      },
+      {
+        "label": "Overall Presentation (Creativity, confidence, and coherence of performance)",
+        "max": 10.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 7,
+    "name": "Motion Mosaic",
+    "irr": "Poster Making Contest (Traditional and Digital)\nMotion Mosaic (Video Highlight-Making Competition)\nTeaser Video Making\nStreet Dancing Parade and showdown\nBench Yelling Competition\nSLOGAN TRADITIONAL AND DIGITAL POSTER MAKING CONTEST\nGuidelines and Mechanics\nEach team must have 3–5 members for the Traditional Slogan Poster Making category and 3–5 members for the Digital Slogan Poster Making category.\nParticipants must submit their names and team details to the Organizing Committee on or before the prescribed registration deadline.\nThe competition shall be conducted during the designated FESTIA 2026 competition period, with the official schedule and time allocations to be announced by the Organizing Committee.\nThe competition shall consist of two (2) categories: Traditional Slogan Poster Making and Digital Slogan Poster Making.\nAll entries must feature an original and relevant slogan that clearly communicates the official theme of the competition.\nThe slogan must be short, meaningful, creative, memorable, and appropriate for a school-based competition.\nThe official contest theme shall be: “Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\"\nAll outputs must be submitted to the Organizing Committee within the prescribed submission period and deadline. Late submissions shall not be accepted unless otherwise authorized by the Organizing Committee.\nStrict compliance with cleanliness is required in the assigned areas of the competition. Participants must clean their designated areas after each session. Failure to comply shall result in a 2-point deduction per judge. The committee shall inspect the assigned areas after each competition session.\nThe decisions of the Board of Judges are final and irrevocable.\nAny entry containing plagiarized content, copied artwork, AI-generated artwork or design elements, or pre-made materials shall be subject to immediate disqualification.\nAll slogans, illustrations, designs, and other creative elements must be original works of the participating team and must be produced within the prescribed competition period.\nOrganizers reserve the right to use, reproduce, display, and publish the submitted entries for official FESTIA promotional, documentation, educational, or exhibition purposes, with proper acknowledgment of the participating team when applicable.\nA. TRADITIONAL SLOGAN POSTER MAKING\nThe artwork must be created exclusively during the official contest period. Pre-drawn artwork, illustrations, outlines, lettering, or other prepared elements on the final illustration board are strictly prohibited.\nParticipants may conceptualize and draft their ideas on separate paper before or during the contest; however, pre-made designs may not be transferred, traced, printed, or reproduced onto the final illustration board.\nThe poster must prominently feature an original slogan based on the official contest theme: “Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\"\nThe slogan must be clearly readable and visually integrated into the overall poster design.\nParticipants must bring their own materials, including coloring materials, paintbrushes, paints, pencils and drawing materials, and an illustration board (A3 or 1/4 size of a whole illustration board).\nThere shall be no restrictions on the type of coloring materials that may be used, including paint, oil pastel, watercolor, colored pencils, markers, and other appropriate traditional media.\nParticipants may freely use paint mixing, color combinations, shading, blending, and other traditional artistic techniques.\nPrinted images, photographs, computer-generated designs, pre-cut illustrations, stickers, or other commercially prepared visual elements shall not be allowed.\nThe artwork must be completed within the designated competition area and within the official competition period.\nDIGITAL SLOGAN POSTER MAKING\nThe digital poster must be created exclusively during the official contest period using a computer, laptop, tablet, or other approved digital device.\nParticipants may prepare their concept, slogan ideas, and general planning before the competition; however, the final digital artwork must be created during the official competition period.\nThe digital poster must prominently feature an original slogan based on the official contest theme: “Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\"\nThe slogan must be original, readable, creative, relevant, and clearly connected to the official theme.\nParticipants may use commonly available digital design and editing applications or software, provided that the final artwork is created by the participating team during the contest.\nParticipants must provide their own laptop, computer, tablet, or other necessary digital equipment, including chargers and other accessories needed to complete their entry.\nPre-made templates, stock poster designs, downloaded posters, copied artwork, or previously completed digital compositions may not be used as the final entry.\nAI-generated images, AI-generated artwork, AI-generated slogans, and AI-generated design elements are strictly prohibited.\nThe final digital poster must be submitted in the file format, resolution, dimensions, and submission method prescribed by the Organizing Committee.\nParticipants may be required to submit the editable/source file together with the final output for verification and authentication.\nJUDGING CRITERIA\nMOTION MOSAIC (VIDEO- HIGHLIGHT MAKING)\nEach team shall have 1 entry.\nEach team shall have at least 6-8 participants.\nAll entries will be presented on the last day of the Intramurals 9:00 am and submitted in digital format ve or Drive Link to dsas@hccci.edu.ph.\nParticipants shall be deducted 1 point per hour for failure to submit their entry on time.\nParticipants must create a 6-8 minutes video.\nThe video must highlight the whole Intramurals events until the last event in the morning.\nAvoid advertising a particular product.\nFailure to submit their entry will be disqualified.\nThe decision of the judges is final.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges",
+    "source": "694–759",
+    "criteria": [
+      {
+        "label": "Content (arrangement/story, creativity, originality and coherence)",
+        "max": 30
+      },
+      {
+        "label": "Technical Excellence (visual creativity, cinematography, sound design, soundtrack and editing)",
+        "max": 50
+      },
+      {
+        "label": "Overall Quality (overall impression, enjoyment factor, meaningfulness and replay value)",
+        "max": 20
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 8,
+    "name": "Teaser Video Making",
+    "irr": "TEASER VIDEO MAKING\nEach Team shall have 1 entry.\nEach Team shall have 5 participants.\nParticipants must create a 1-minute video.\nAll entries will be presented on the first day of the Intramurals, during the opening salvo.\nThe video must generate excitement and intrigue about the Intramurals 2026.\nUse captivating visuals, creative storytelling, and compelling editing techniques to hook the audience is allowed.\nEach team must submit their teaser videos (2) two days before the event and submit in digital format (flash drive or Drive Link to dsas@hccci.edu.ph.\nParticipants shall be deducted 1 point per hour for failure to submit their entry on time.\nFailure to submit their entry will be disqualified.\nJudging Criteria and Percentage:\nCONTENT (ARRANGEMENT/STORY, CREATIVITY, ORIGINALITY AND COHERENCE) - 30%\nTECHNICAL EXCELLENCE (VISUAL CREATIVITY, CINEMATOGRAPHY, SOUND DESIGN, SOUNDTRACK AND EDITING) - 50%\nOVERALL QUALITY (OVERALL IMPRESSION, ENJOYMENT FACTOR, MEANINGFULNESS AND REPLAY VALUE) - 20%\nTOTAL - 100%\nThe decision of the judges is final.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.",
+    "source": "760–776",
+    "criteria": [
+      {
+        "label": "Content (arrangement/story, creativity, originality and coherence)",
+        "max": 30
+      },
+      {
+        "label": "Technical Excellence (visual creativity, cinematography, sound design, soundtrack and editing)",
+        "max": 50
+      },
+      {
+        "label": "Overall Quality (overall impression, enjoyment, meaningfulness and replay value)",
+        "max": 20
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 9,
+    "name": "Street Dancing Parade",
+    "irr": "STREET DANCING PARADE COMPETITION\nEach team must have one competing team composed of street dancers in full costume (50-70) street dancers and 10-15 prop men), cheer dancers in their uniform, athletes in their jerseys/ team shirts, the students in their official team shirts, and the faculty members under each team. Every team has the freedom in sequencing their participants.\nEach team will transport its own sound system on a separate vehicle.\nThe parade will start regardless if the participants are complete or not.\nProps and other materials are allowed as long as they will not create any untoward incidents during the whole duration of the competition. Fireworks, firecrackers, and other related materials are prohibited.\nAttendance of the Faculty and Staff in every team is encouraged for it corresponds to the 10% of the total criteria for judging (Ratio and Proportion).\nAll team members and participants must perform continuously throughout the entire parade, as there will be no designated judging stations. Instead, three judges will be positioned at random locations along the parade route. Performances should be executed while marching, without stopping, to avoid delays. Only simple steps are encouraged to ensure that students can keep moving smoothly throughout the parade.\nViolation of guidelines no. 3 and 4 mean deductions of 2 points from the total score of the team.\nThere will be special awards to be given.\nThe judge’s decision is final.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.",
+    "source": "777–790",
+    "criteria": [
+      {
+        "label": "Style and Creativity",
+        "max": 25.0
+      },
+      {
+        "label": "Props and Costume",
+        "max": 20.0
+      },
+      {
+        "label": "Liveliness, Energy of the Participants",
+        "max": 25.0
+      },
+      {
+        "label": "Faculty Attendance",
+        "max": 10.0
+      },
+      {
+        "label": "Orderliness and Discipline",
+        "max": 20.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 10,
+    "name": "Street Dancing Showdown",
+    "irr": "STREET DANCING PARADE SHOWDOWN\nAll teams are required to have participants for the street dancing parade and showdown.\nEach team shall have at least 30-50 participants and 10-15 prop men.\nThe performance must last at least one (1) minute and shall not exceed two (3) minutes, including entrance and exit\nChanting, singing, and dancing is allowed during the whole duration of the showdown.\nThe use of drums and other instruments/props are allowed.\nEach team must incorporate their respective theme into their costumes and props.\nUsing sharp objects (knife, scissors, cutter, etc.), water, and fire for props, possessing an indecent and vulgar costume, and performing deadly stunts are restricted.\nThe use of music is allowed during the showdown, provided that the team produces its own sound system.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.",
+    "source": "791–802",
+    "criteria": [
+      {
+        "label": "OVERALL APPEARANCE (IDENTIFIABLE THEME, APPEALING COSTUMES AND PROPS, AND PRESENTATION)",
+        "max": 40.0
+      },
+      {
+        "label": "CREATIVITY (RELEVANCE OF THE PROPS AND ORIGINALITY)",
+        "max": 20.0
+      },
+      {
+        "label": "ORDERLINESS (ORGANIZATION OF PARTICIPANTS)",
+        "max": 20.0
+      },
+      {
+        "label": "CONSISTENCY (ENERGY IS CONSISTENT AND GROUP PARTICIPATION IS CONSISTENT)",
+        "max": 10.0
+      },
+      {
+        "label": "PUNCTUALITY",
+        "max": 10.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 11,
+    "name": "Bench Yelling",
+    "irr": "BENCH YELLING COMPETITION\nEach team must be represented by one competing group only\n2-minutes preparation is given to each team for the setting of the props and cleaning/clearing of the floor including the entrance and exit.\nThe yells will be performed for at least 3 minutes and the yells will be performed by at least 30-50 yellers excluding the props men. Each team shall strictly observe and abide by the following:\nNo electronic instruments\nNo derogatory or negative remarks against teams, people, establishments, etc., during the yell.\nA modified yell of the previous year and original is acceptable.\nA maximum of 5 props men are allowed.\nEach team shall be responsible in clearing/cleaning the dance floor after its performance.\nNon performers are not allowed to stay in the performance area where the yellers are having their yells.\nA point fifty (.50) point shall be deducted from the total score of the contestant per judge’s sheet for every 10 seconds excess of the time allotted.\nViolation of the school’s dress code and the green university policy will result into disqualification.\nVulgar words or images associated in the costume will result in disqualification of the team’s entry.\nEach competing group must submit a list on September 21, 2026 1:00-5:00 p.m. only.\nEach competing group must submit a copy of their yells on September 21, 2026 1:00-5:00\np.m. only.\nThe competition will start on September 29, 2026 in the afternoon at the Surallah Municipal Ground.\nFailure to submit a lyric or script on September 21, 2026 will be deducted 1 point per hour.\nThe use of drums and other instruments are allowed.\nThe use of props and backdrops are allowed.\nUsing sharp objects (knife, scissors, cutter, etc.), water, and fire for props, possessing an indecent and vulgar costume, and performing deadly stunts are restricted.\nThe performance must be at least (3) minutes and shall not exceed to (5) minutes including entrance and exit.\nThe committee has prepared an official timer to take note of the time consumed by each group.\nThe decision of the judges is final.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.\nSOCIO-CULTURAL FESTIVAL\nVocal Solo\nVocal Duet\nDoble Kara\nHip-Hop/ Street Dance Style Competition\nContemporary Duo",
+    "source": "803–845",
+    "criteria": [
+      {
+        "label": "PERFORMANCE Clarity, Voice Quality, Volume Choreography Enthusiasm and confidence of the performers",
+        "max": 35.0
+      },
+      {
+        "label": "CONTENT Relevance to the theme and team emblem Promotional content Innovativeness",
+        "max": 30.0
+      },
+      {
+        "label": "MASTERY Coordination and Props",
+        "max": 25.0
+      },
+      {
+        "label": "Costume and Props",
+        "max": 10.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 12,
+    "name": "Vocal Solo",
+    "irr": "VOCAL SOLO\nEach team must be represented by one contestant only. The singer must be representing his/her team.\nThe contestant is free to select his/her contest piece.\nThe contest piece must be OPM songs in English or Tagalog.\nThe performance is 3 to 5 minutes. A point fifty (0.50) point shall be deducted from the total score of the competing team for every 30 seconds excess of the time allowed.\nDecency of clothes must be observed.\nThe use of any human material props is strictly prohibited\nThe competition will be on October 3, 2026, at the HCCCI, Campus 1. The competition will start in the afternoon.\nDuring the competition, all competing teams must be at the venue 30 minutes before all the competitions begin. There will be .50 deductions beyond 30 MINUTES.\nThe schedule of general rehearsal for grand production of socio cultural events to be announced on the first day of intramurals.\nThe schedule of the general rehearsal for all the singing competitions will be at the HCCCI, front ground, the date and time will be announced once finalized.\nAll singers must attend the rehearsal. There will be a point fifty (.50) point deduction per member who will not be able to attend the rehearsal and point thirty (.30) points for every late member. The said points will be deducted from every judge’s score. No point will be deducted to those who have valid reasons which are limited to death in the family, serious accident, and illness.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.\nEach competing group must submit a list of participants on September 21, 2026, at 1:00 PM to 5:00 PM only.",
+    "source": "846–865",
+    "criteria": [
+      {
+        "label": "MUSICALITY",
+        "max": 40.0
+      },
+      {
+        "label": "INTERPRETATION, TIMING MASTERY DYNAMICS AND VOICE QUALITY",
+        "max": 40.0
+      },
+      {
+        "label": "STAGE PERFORMANCE, PROJECTION, DEPORTMENT",
+        "max": 20.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 13,
+    "name": "Vocal Duet",
+    "irr": "VOCAL DUET\nEach team must be represented by one competing pair only. The singers must be representing their team.\nThe competing pair must be composed of male-female singers or mixed.\nAll the contest pieces must be a OPM SONG in English or Tagalog.\nThe performance should be 3 to 5 minutes. A point fifty (0.50) point shall be deducted from the total score of the competing team for every 30 seconds excess of the time allowed.\nThe use of any human material props is strictly prohibited.\nDecency of clothes must be observed.\nThe competition will be in Surallah HCCCI, CAMPUS 1.\nThe competition will start in the afternoon.\nThe schedule of the general rehearsal for all the singing competitions will be at the HCCCI Ground the date and time will be announced once finalized.\nAll singers must attend the rehearsal. There will be a point fifty (.50) point deduction per member who will not be able to attend the rehearsal and point thirty (.30) points for every late member. The said points will be deducted from every judge’s score. No point will be deducted to those who have valid reasons which are limited to death in the family, serious accident, and illness\nEach team must submit a copy of their contest piece on September 21, 2026, at 1:00 PM to 5:00 PM only.\nEach competing group must submit a list of participants on September 12, 2026 at 1:00 PM to 5:00 PM only.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.",
+    "source": "866–881",
+    "criteria": [
+      {
+        "label": "MUSICALITY",
+        "max": 40.0
+      },
+      {
+        "label": "INTERPRETATION, TIMING MASTERY DYNAMICS AND VOICE QUALITY",
+        "max": 40.0
+      },
+      {
+        "label": "STAGE PERFORMANCE, PROJECTION, DEPORTMENT",
+        "max": 20.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 14,
+    "name": "Doble Kara",
+    "irr": "DOBLE KARA\nGeneral Guidelines ​\nOpen to one individual contestant per team. ​\nContestants must present a dual-character transformation (male and female split) using costuming, voice, and physical characterization. ​\nThe participants will portray an original voice to define the doble kara voices.\nPerformances must last between 3 to 5 minutes. ​\nCostume & Makeup: The split-body illusion must be visible from head to toe. No full-costume off-stage changes are permitted during the performance timed window; transitions must occur live on stage using body orientation. ​\nRepertoire: The routine must alternate seamlessly between male and female parts using different music genres or vocal styles.\nThe use of any human material props is strictly prohibited\nThe competition will be on October 3, 2026, at the HCCCI, Campus 1. The competition will start in the afternoon.\nDuring the competition, all competing teams must be at the venue 30 minutes before all the competitions begin. There will be .50 deductions beyond 30 MINUTES.\nThe schedule of general rehearsal for grand production of socio cultural events to be announced on the first day of intramurals.\nThe schedule of the general rehearsal for all the singing competitions will be at the HCCCI, front ground, the date and time will be announced once finalized.\nAll singers must attend the rehearsal. There will be a point fifty (.50) point deduction per member who will not be able to attend the rehearsal and point thirty (.30) points for every late member. The said points will be deducted from every judge’s score. No point will be deducted to those who have valid reasons which are limited to death in the family, serious accident, and illness.\nThere shall be a point five (0.5) deduction per judge per rule violation and shall be made by the Chairman of the Board of tabulators duly concerned by the members and in consultation with the Board of Judges.\nEach competing group must submit a list of participants on September 21, 2026, at 1:00 PM to 5:00 PM only.\nCriteria ​for judging",
+    "source": "882–911",
+    "criteria": [
+      {
+        "label": "Visual Concept & Costume Execution",
+        "max": 35.0
+      },
+      {
+        "label": "Quality of Voice & Character Distinction",
+        "max": 30.0
+      },
+      {
+        "label": "Choreography & Character Switching",
+        "max": 25.0
+      },
+      {
+        "label": "Stage Presence & Performance",
+        "max": 10.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 15,
+    "name": "Retro Hip-Hop Dance",
+    "irr": "RETRO HIPHOP DANCE COMPETITION\nGUIDELINES\nEach team shall be required to have their own participating team.\nEach team shall perform on the designated day of the Intramurals.\nEach team must consist of a minimum of 8 and a maximum of 15 members.\nTime Limit: Each performance must be 4–7 minutes, inclusive of entrance and exit.\nA 1-point deduction per judge shall be imposed for every 30 seconds of excess performance time.\nThe performance must showcase a Hip-Hop Retro theme, incorporating dance styles, music, movements, and elements inspired by the 1980s, 1990s, and/or early 2000s.\nThe use of props is allowed, provided that they are safe and appropriate for the performance. Props that may cause harm, including fire, pyrotechnics, or other hazardous materials, are strictly prohibited.\nCostumes shall be at the discretion of each team, provided that they are appropriate, decent, and consistent with the Hip-Hop Retro theme. Suggestive, overly revealing, or lewd attire is not advisable.\nDangerous stunts, lifts, or acrobatic movements that may endanger performers are strictly prohibited, such as double back-tucks, uncontrolled flips, or other high-risk maneuvers.\nTeams are encouraged to incorporate retro-inspired fashion, iconic Hip-Hop movements, formations, musical transitions, and creative interpretations of the selected era while maintaining originality and entertainment value.\nAll music and choreography must be appropriate for a school-based Intramurals event. Profane, offensive, discriminatory, or sexually explicit content is strictly prohibited.\nThere shall be a 0.5-point deduction per judge for every rule violation. Such deductions shall be determined by the Chairman of the Board of Tabulators, duly coordinated with the concerned members and in consultation with the Board of Judges.\nCRITERIA FOR JUDGING\nMODIFIED CONTEMPORARY DUO\nGuidelines and Mechanics\nEach team shall provide one (1) entry consisting of one (1) pair of participants.\nThe Modified Contemporary Duo is open to participants of any gender. The pair may be composed of any gender combination, including but not limited to male-female, male-male, female-female, LGBTQ+ participants, and other gender identities or expressions.\nNo participant shall be disqualified or disadvantaged based on sex, gender identity, gender expression, or sexual orientation. All participants shall be given equal opportunity to compete.\nThe duo may choose from the following themes or concepts:\nLove and Relationships\nSocial Issues\nInner Turmoil\nJoy and Celebration\nParticipants may also present an original concept, provided that it is appropriate for the competition.",
+    "source": "912–950",
+    "criteria": [
+      {
+        "label": "MASTERY & EXECUTION",
+        "max": 25.0
+      },
+      {
+        "label": "POWER, ENERGY & ENDURANCE",
+        "max": 20.0
+      },
+      {
+        "label": "CHOREOGRAPHY & CREATIVITY",
+        "max": 25.0
+      },
+      {
+        "label": "RETRO THEME & COSTUME",
+        "max": 15.0
+      },
+      {
+        "label": "OVERALL IMPACT & ENTERTAINMENT VALUE",
+        "max": 15.0
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 16,
+    "name": "Basketball",
+    "irr": "BASKETBALL\nBasketball team competition for men and women. It shall adopt the double elimination system.\nAll technicalities and rules should be based on existing FIBA rules.\nMaximum of 5 players allowed on the court at any one time. But there are no limits to the number of basketball player substitutions allowed.\nPlayers move the ball around the court using dribbling, passing, tapping, rolling, and throwing techniques.\nA player thrown out of the game for roughness or unsportsmanlike behavior will not be allowed to play in the team’s next game. If thrown out for the second time, one will be disqualified to participate throughout the intramurals\nIn case of a tie, the fiba rules in breaking a tie will be followed.",
+    "source": "1040–1046",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 17,
+    "name": "Volleyball",
+    "irr": "VOLLEYBALL\nTeam competition for men and women. It shall adopt the double elimination system.\nAll technicalities and rules should be based on existing FIVB rules.\nOnly 6 players on the floor at any given time: 3 in the front row and 3 in the back row.\nPoints are made on every serve for the winning team of the rally (rally-point scoring).\nPlayers may not hit the ball twice in succession (a block is not considered a hit).\nBall may be played off the net during a volley and on a serve.\nA ball hitting a boundary line is in.\nA ball is out if it hits an antennae, the floor completely outside the court, any of the net or cables outside the antennae, the referee stand or pole, or the ceiling above a non-playable area.\nIt is legal to contact the ball with any part of a player’s body.\nIt is illegal to catch, hold or throw the ball.\nA player cannot block or attack a serve from on or inside the 10-foot line.\nAfter the serve, front-line players may switch positions at the net.\nAll games shall be played in two out of three winning sets.",
+    "source": "1047–1062",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 18,
+    "name": "Sepak Takraw",
+    "irr": "SEPAK TAKRAW\nEach team called Regu\nA Regu consists of 3 players, Tekong(Server), Feeder(Setter), Striker(Spiker).\nThe Tekong must serve first within the serving circle.\nThe server tosses the ball and kicks it over the net in one motion.\nThe ball must pass over the net cleanly and land within the opponents court.\nA match typically played 21 points per set, with at least a 2-point lead, best of 3 sets to win the match.\nPlayers may use any part of the body except the hands and arms.\nEach team can touch the ball a maximum of 3 times before sending it back over the net.\nThe same player cannot hit the ball twice in a row.\nThe ball must not touch the ground on your side.\nIf the ball touches the net and goes over during play, it remains in play.\nA fault is committed if the ball lands outside the opponents court.\nA fault is committed if the ball fails to cross the net and players use hands and arms.\nA fault is committed if the player touches the net or crosses under it.",
+    "source": "1063–1079",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 19,
+    "name": "Table Tennis",
+    "irr": "TABLE TENNIS\nTable and Equipment:\nSpecifies the dimensions and specifications of the table, net, and other equipment used in the game, including the required ball size and material.\nServe:\nOutlines the rules for serving, such as the proper toss height, the requirement to hit the ball behind the table, and the need for the ball to bounce once in the opponent's court.\nScoring System:\nSpecifies the scoring system, which is typically based on a best-of-5 or best-of-7 games format. Each game is played to 11 points, and players must have a two-point lead to win the game.\nGameplay:\nDefines the rules for the rally, including the requirement for the ball to be hit over the net and land within the opponent's half of the table. It may also include rules for let (when the ball hits the net during a serve) and rules regarding the sequence of serves and receives.\nConduct:\nEmphasizes fair play and good sportsmanship, prohibiting actions such as offensive language, racket abuse, or deliberately distracting opponents. It may also include rules regarding player attire and behavior during matches.\nTime Control:\nSpecifies the time limits for each game or match, ensuring that players adhere to the allocated time for each match.\nTournament Format:\nOutlines the format of the tournament, including the number of participants, the structure of the tournament (e.g., round-robin, single elimination), and any additional rules specific to the tournament format.\nUmpires and Officials:\nDescribes the roles and responsibilities of umpires and officials in the tournament, including their authority to make decisions and enforce the rules during matches.",
+    "source": "1118–1154",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 20,
+    "name": "Chess",
+    "irr": "CHESS\nTime Control:\nSpecifies the amount of time allocated to each player to complete their moves. It could be a fixed amount of time for the entire game, or it may include an increment or time delay per move.\nRecording Moves:\nRequires players to record their moves using algebraic notation throughout the game. This helps in resolving disputes, analyzing games, and verifying results.\nTouch-Move Rule:\nStates that if a player touches one of their own pieces, they must move it if it has a legal move. If a player touches an opponent's piece, they must capture it if possible\n.\nIllegal Moves:\nOutlines penalties for making illegal moves, such as losing time on the clock or forfeiting the game after repeated offenses.\nPoint System:\nSpecifies how points are awarded in each game. Common systems include 1 point for a win,\n0.5 points for a draw, and 0 points for a loss. Tournament standings are often determined based on the accumulated points.\nElectronic Devices:\nProhibits the use of mobile phones and electronic devices during games to prevent unfair assistance or distractions. Players may be required to turn off or surrender their devices before the game.\nDress Code:\nSpecifies the appropriate attire for players during the tournament, such as wearing collared shirts, closed-toe shoes, and prohibiting shorts or casual wear.\nSubstitutions:\nOutlines rules regarding player substitutions, including restrictions on substitutions during games.\nTournament Schedule and Venue:\nProvides details about the date, time, and location of the tournament, ensuring players are aware of when and where the games will take place.",
+    "source": "1155–1178",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 21,
+    "name": "Scrabble",
+    "irr": "SCRABBLES\nEquipment and Board:\nSpecifies the use of an official Scrabble board and tiles, with the correct tile distribution and tile values as per the official rules.\nDictionary:\nIdentifies the specific dictionary or word list that will be used as the reference for valid words during the tournament. The most commonly used dictionary is the Official Tournament and Club Word List (OTCWL) or the Collins Scrabble Words (CSW).\nGame Setup:\nOutlines the process of tile distribution, shuffling, and random selection of the starting player. It may also specify the use of a timer to track players' turns.\nGameplay:\nDescribes the rules of placing tiles on the board, including the requirement to connect to existing words and the restriction on forming illegal words.\nOutlines rules for challenging words played by opponents, including the consequences of a successful or unsuccessful challenge.\nScoring System:\nSpecifies the scoring system used in the tournament, where each tile has a specific point value. It may also include rules for bonuses like double or triple word/letter scores.\nTurns and Time Control:\nOutlines the time limit for each turn, ensuring that players adhere to the allocated time. It may also specify penalties for exceeding the time limit.\nConduct and Sportsmanship:\nEmphasizes fair play, honesty, and good sportsmanship. It may include rules regarding acceptable behavior, prohibiting offensive language, cheating, or disruptive behavior.\nOfficials and Arbitration:\nDescribes the roles and responsibilities of tournament officials, including tournament directors, judges, and referees. It may outline the process for dispute resolution and the authority of officials in making decisions.\nTournament Format:\nOutlines the structure of the tournament, including the number of rounds, the method of pairing players, and the scoring system used to determine the overall winner.\nPlayer Eligibility:\nSpecifies the eligibility criteria for participating in the tournament, such as membership requirements or rating restrictions.",
+    "source": "1179–1201",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 22,
+    "name": "Boggle",
+    "irr": "BOGGLE\n Equipment and Board:\nSpecifies the use of an official Boggle game set, including the Boggle grid with letter cubes and the Boggle timer.\n Game Setup:\nOutlines the process of shaking and settling the letter cubes in the grid before the start of each round.\nSpecifies the size of the grid, such as 4x4 or 5x5, and the number of rounds to be played.\n Gameplay:\nDescribes the rules of finding words in the grid, such as the requirement for words to be formed by connecting adjacent letters (horizontally, vertically, or diagonally).\nSpecifies the minimum word length for valid words, often a minimum of three or four letters.\nOutlines rules for word validation, such as disallowing proper nouns or words that are not in a specified dictionary.\n Scoring System:\nSpecifies the scoring system used in the tournament, such as awarding points based on word length (e.g., 1 point for 3-4 letter words, 2 points for 5-letter words, etc.).\nMay include bonus points for longer words or additional points for finding specific target words.\n Time Control:\nOutlines the time limit for each round or game, ensuring that players adhere to the allocated time for finding words on the grid.\nSpecifies penalties for exceeding the time limit or disqualification for consistent time violations.\n Conduct and Sportsmanship:\nEmphasizes fair play, honesty, and good sportsmanship. It may include rules regarding acceptable behavior, prohibiting cheating, or disruptive behavior.\n Officials and Arbitration:\nDescribes the roles and responsibilities of tournament officials, including tournament directors and referees. It may outline the process for dispute resolution and the authority of officials in making decisions.\n Tournament Format:\nOutlines the structure of the tournament, including the number of rounds, the method of pairing players, and the scoring system used to determine the overall winner.",
+    "source": "1202–1236",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 23,
+    "name": "Games of Generals",
+    "irr": "GAME OF GENERALS\nObjective of the Game\nTo eliminate or capture the Flag of your opponent.\nYou may also win by successfully maneuvering your own Flag to the opposite end of the board.)\nThe Pieces: The player’s set of pieces or soldiers with the corresponding ranks and functions consist of the following 21 pieces:\nMovements\nAny player makes the first move. Players move alternately.\nA player is allowed to move only one piece at a time.\nA move consists of pushing a piece of an adjacent square, either forward, backward, or sideward. A diagonal move or a move of more than one square is illegal.\nChallenging\nAs the same progresses, challenges are made resulting in the elimination of soldiers. A “challenge” is made when a soldier moves into the same square occupied by an opposing soldier. When a challenge is made, the following rules of elimination apply:\nA higher ranked soldier eliminates from the board a lower ranked soldier.\nIf both soldiers are of equal rank, both are eliminated.\nA spy eliminates any officer starting with the rank of 5 star general down to the sergeant.\nThe flag can be eliminated or captured by any piece including\nthe opponent’s flag.\nOnly a Private can eliminate the spy.\nThe flag that moves into the same square occupied by the other flag wins the game.\nFor maximum interest and suspense, a natural party or arbiter is present to decide over a challenge for both players.\nHow the Game Ends:\nThe game ends:\nWhen a flag reaches the opposite end of the board.\nWhen a player resigns.\nWhen both players agree on a drawn position\nA flag reaching the opposite end of the board may still be eliminated by an opposing piece occupying a square adjacent to the one reached by the flag. In order to win, the flag should at least be two squares or two moved ahead of any opposing piece.\nReminder\nA winner is determined if two (2) of the three (3) players of each competing team wins the game.\nNo substitution must occur during the game.\nEvery player must wear his or her team shirt and shoes during the game. Wearing of shorts is not allowed.\nViolation of the rule letter C means default in the Scheduled game.\nTime control shall be (1) hour with (30) seconds increment per move to finish the game using the digital clock.\nRecording of the moves in algebraic notation is mandatory throughout the game.\nIllegal moves (penalty) touch moves rules also follow; 2 minutes plus for good players. Another 2 minutes for the second offense and lost by forfeiture of the game for the 3rd offense.\nA player is credited 1 point for a win, 5 for a draw, and 0 for a loss.\nUse of mobile phones and other means of electronic communications inside the playing are strictly prohibited. Players with mobile phones must turn them off while playing. A player who will violate this rule shall be given an oral warning on the first offense and shall LOSE his/her game by forfeiture on the second game.\nA team whose member is giving unsolicited advice or assistance to his teammate while the games are in progress shall lose their match by forfeiture.\nNo substitution must occur during the game.\nEvery player must wear his or her team shirt and shoes during the game. Wearing of shorts is not allowed.\nViolation of rule number eight (8) means a point fifty (0.50) point shall be deducted from the total score of the competing team.\nThe game tournament will be on September 30-October 1, 2026  at the HCCCI Campus 1 Library.\nEach competing group must submit a list of participants on September 21, 2026\n1:00 PM to 5:00 PM only.",
+    "source": "1237–1284",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 24,
+    "name": "Badminton",
+    "irr": "BADMINTON\nCourt and Equipment:\nSpecifies the dimensions and specifications of the badminton court, net height, and the use of official badminton equipment, including racquets and shuttlecocks.\nScoring System:\nOutlines the scoring system used in the tournament, which is typically a best-of-three games format. Each game is played to 21 points, and the player/team must have a two-point lead to win the game. In some tournaments, a rally-point system to 11 or 15 points may be used.\nServing and Receiving:\nDescribes the rules for serving and receiving, including the proper service court, service height, and rotation of serving players in doubles matches.\nGameplay:\nOutlines the rules for gameplay, such as the boundaries of the court, fault rules (e.g., stepping into the opponent's court, hitting the shuttlecock twice), and let rules (e.g., if the shuttlecock gets stuck on the net during a serve).\nTime Control:\nSpecifies the time limits for warm-up, interval between games, and rest periods between matches. It may also include penalties for delaying the match or exceeding the time limits.\nConduct and Sportsmanship:\nEmphasizes fair play, honesty, and good sportsmanship. It may include rules regarding acceptable behavior, prohibiting offensive language, racket abuse, or disruptive behavior.\nOfficials and Arbitration:\nDescribes the roles and responsibilities of tournament officials, including referees and line judges. It may outline the process for dispute resolution and the authority of officials in making decisions.\nTournament Format:\nOutlines the structure of the tournament, including the number of rounds, match format (e.g., singles, doubles), and the method of pairing players/teams. It may also include rules for seeding players based on rankings or previous performance.",
+    "source": "1285–1316",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 25,
+    "name": "Dart",
+    "irr": "DART\nDartboard and Equipment:\nSpecifies the use of an official dartboard with the standard dimensions and numbering system. The regulations may also outline the required quality and specifications of the darts used in the tournament.\nScoring System:\nOutlines the scoring system used in the tournament, which is typically based on a\npoints-per-dart basis. The most common scoring system is the \"501\" or \"301\" format, where players start with a set score and subtract their score with each throw.\nGame Formats:\nDescribes the different game formats that may be played in the tournament, such as \"501,\" \"301,\" \"Cricket,\" \"Round the Clock,\" or other variations. It may specify the number of legs or sets required to win a match.\nGameplay:\nOutlines the rules for throwing darts, including the proper throwing distance, stance, and the requirement to remove darts from the board before the next player's turn. It may also include rules for retrieving darts that fall out of the board.\nScoring and Calculation:\nSpecifies the rules for scoring and calculation of points. It may include rules for counting doubles, triples, or bullseye scores, as well as penalties for scoring errors or foul throws.\nTime Control:\nSpecifies the time limits for each turn or round, ensuring that players adhere to the allocated time. It may also include penalties for exceeding the time limit or disqualification for consistent time violations.\nConduct and Sportsmanship:\nEmphasizes fair play, honesty, and good sportsmanship. It may include rules regarding acceptable behavior, prohibiting offensive language, disruptive behavior, or distractions during opponents' turns.\nOfficials and Arbitration:\nDescribes the roles and responsibilities of tournament officials, including referees or scorekeepers. It may outline the process for dispute resolution and the authority of officials in making decisions.\nTournament Format:\nOutlines the structure of the tournament, including the number of rounds, the method of pairing players, and the scoring system used to determine the overall winner. It may also include rules for tiebreakers or playoffs.\nDANCE SPORTS COMPETITION – LATIN\nGuidelines and Mechanics\nGuidelines and Mechanics\nEach team shall provide two (2) pairs of participants.\nParticipants shall perform Latin dances such as Cha-Cha, Samba, Rumba, Paso Doble, and Jive, based on the final competition format.\nPerformance will be based on the music provided by the committee.\nEach level of dance will consume into 1:30 mins. to 2:00 mins where all contestants will dance on the floor but judge individually using Absolute judging system or (AJS).\nPerformances shall demonstrate proper technique, rhythm, timing, coordination, partnering, body movement, and musical interpretation.\nCostumes must be decent, appropriate, safe, and suitable for a school-based competition.\nUse of props will be strictly prohibited.\nLifts are allowed but not too many Dangerous lifts, stunts, or movements that may cause injury are prohibited.\nOutside trainers/coaches may be allowed but must comply with the approved FESTIA 2026 Trainers/Consultants Guidelines, including the required MOA and orientation.",
+    "source": "1317–1350",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 26,
+    "name": "Call of Duty Mobile",
+    "irr": "CALL OF DUTY MOBILE: BATTLE ROYALE GUIDELINES\n4 vs all Battle Royal\nEach Team will have 5-10 participants (Composing 2 teams) 1 female player required for each team.\nRegistration will be a day before the Intramurals.\nTeam information, Team name, Team captain's contact details will be needed.\nOnly the Team Captain will be added to our GC for further instructions.\nSubmit your details to:\nInternet connectivity problems shall be the responsibility of the participating teams. Thus, this shall not be a reason for the protest. Organizers will not be held liable.\nparticipants and the audience must conduct themselves professionally and respectfully. Any unsportsmanlike conduct such as unnecessary shouting and “trash-talking” will result in penalties and a possibility of disqualification.\nCoaching, enemy screen viewing, and all modes of cheating will be subjected to immediate disqualification.\nControllers, cellphone holders, and all other helping gadgets are strictly prohibited.\nNo outside spectator.\nLive streaming will be posted on the FB page:\nTeams must be in the venue 15 minutes before their scheduled game.\nThe organizing committee will record the result of the game.",
+    "source": "1468–1483",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 27,
+    "name": "Limbo Rock",
+    "irr": "LIMBO ROCK\nEach Team shall have 5-8 participants.\nAll contestants must attempt to pass under the bar with their backs facing toward the floor. When passing under the bar, players must bend backward. No part of their body is allowed to touch the bar, and no part other than their feet may touch the ground. They must not turn their head or neck to the side.\nAfter everyone in the line has made an attempt, the bar is lowered two inches and the process repeats.\nThe last participant’s team who passes under the bar will win the game.\nAll players who violate the rules/mechanics will be automatically eliminated.",
+    "source": "1493–1500",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 28,
+    "name": "All in Chinese Garter",
+    "irr": "ALL IN CHINESE GARTER\nEach Team shall have 5-8 participants.\nTwo facilitators hold each end of the garter.\nParticipants will take turns in passing over the garter.\nAfter everyone in the line has made an attempt, the garter increases height after all players have passed.\nHere is a case of the levels being utilized to give you thought of the game:\nLevel 1- The garter is being held by the post closer to the \t\t        ground.\nLevel 2- Knee high\nLevel 3- Around the height of their hips\nLevel 4- Waist High\nLevel 5- Chest High\nLevel 6- Shoulder High Level 7- Head High\nLevel 8- At the tip of the head\nLevel 9- A couple of inches over the head\nLevel 10- Also known as the Father/Mother Jump, as high as a child raising his    arms high on tiptoes.\nPlayers who fail to pass over are eliminated from the game.\nThe last participant’s team who passes under the bar will win the game.\nAll players who violate the rules/mechanics will be automatically eliminated.",
+    "source": "1501–1521",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 29,
+    "name": "Patintero",
+    "irr": "PATINTERO\nRules apply across the board to all players.\nThe equipment required for the game includes chalk or paint, a score sheet, a whistle, and a stopwatch. The playing court should be a rectangle of about 7.5 long and 5m wide divided into six equal rectangles.\nThe rules of patintero Philippines are as follows:\nSingle Elimination\nEach team shall have 8-10 players\nThe game starts with a toss of a coin to decide the team that becomes the passer or runner.\nThere is a time limit of two minutes for each team to score. Once the two minutes elapse, the two teams change sides, and the guards become the passers and vice-versa.\nThe passers or runners are supposed to cross the lines from the starting point and back, to earn a point.\nThe line guards are positioned on the vertical lines with one on the horizontal line of the grid, making sure that their feet are always on the line.\nThe patintero objectives of the line guards include tagging the passers or runners with their powered or butterfly hands and blocking them from passing the lines.\nOnce a guard tags any of the passers, the line guards assume the position of the passers.\nThe team who will first get 3 points will win the game and proceed to the final round.\nAll players who violate the rules/mechanics will be automatically eliminated.",
+    "source": "1522–1536",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 30,
+    "name": "Dancing Ball",
+    "irr": "DANCING BALL\nSingle Elimination\nEach team shall have 10 players.\nTeams will compete in each game.\nThe game starts with a toss of a coin to decide the team that becomes the first or second team.\nThe first team should stand in the middle of the court, while the second team should be divided into two and should stand at both sides of the court.\nThe second team should hit a player, that player is out.\nAfter the first team is all out, the second team will take their positions.\nThe team with the shortest period of time hitting all their opponents will win the game.\nAll players who violate the rules/mechanics will be automatically eliminated.",
+    "source": "1537–1547",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 31,
+    "name": "Tug of War",
+    "irr": "TUG OF WAR\nSingle elimination\nEach team composed of 10 players\nEach round is composed of 2 teams to compete\nEach team must pull the rope until the competing team passes the respective line to be a winner.\nThe winners from the elimination round will proceed to the final round.\nKADANG-KADANG GAME\nSingle elimination type\nEach team shall be composed of 5 players. Each team shall provide a kadang/bamboo stilts. Foot steps must be 12 inches higher than the ground.\nTeams who violate the rules and mechanics of the game will be eliminated.\nEvery player from the starting line must use the kadang to walk through the turning point back to the starting line.\nThe 1st player must relay to the next player until all the players of the team must participate.\nThe team that finishes earlier than the other team will be the winner and can compete to the next round.\nAll players who violate the rules/mechanics will be automatically eliminated.",
+    "source": "1548–1565",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 32,
+    "name": "Tumbang Preso",
+    "irr": "TUMBANG PRESO\nRules of the Game:\nAn IT, the one to guard the milk can, is chosen by throwing the \"pamato\" to the toe line by all the players. Whoever player whose \"pamato\" is farthest from the toe-line is the IT.\nThe hitters will line up at the back of the toe-line and at the sign of the IT, the game is started.\nThe \"pamato\" must be retrieved immediately once the can is knocked down, otherwise once the IT has placed the can inside the circle, the one tagged becomes the IT.\nWhen the can is hit and goes off the circle but remains standing, the IT has the right to tag the hitter once the hitter leaves the toe-line.\nThe can may be kicked or knocked down under situation No. 4.\nIf a hitter is not able to retrieve his \"pamato,\" the others can save him by hitting the can.\nScoring System:\n1 point per successful knock-out of the can.\nthe player with the most points at the end of the round wins.\nThere will be 3 rounds.\n3 points per roun\nMODIFIED VOLLEYBALL\nGame Rules and Point System:\nEach team must have 6 participants (mix).\nThe game begins with a coin toss to decide which team serves first.\nThe net is covered with cloth or tarp so players cannot see through it.\nA huge rubberized ball will be provided by the committee.\nThe serving team performs an underhand serve to send the huge ball over the covered net.\nEach team is allowed a maximum of three (3) touches to return the ball.\nPlayers use soft hits, passes, or pushes instead of spikes or hard strikes to safely direct the huge ball.\nA point is scored when (1) the ball lands inside the opponent’s court, (2) the opposing team fails to return the ball within three touches, and (3) the ball goes out of bounds after being touched last by the opponent.\nThe game uses a rally scoring system, meaning a point is awarded on every serve.\nWhen a team wins a rally and regains the right to serve, players rotate clockwise before the next serve.\nThe first team to reach 15 points wins the set; the match is played in the best of three sets.\nViolations include catching or holding the ball, exceeding three touches, touching the net, or stepping out of bounds.\nThe team that wins two out of three sets is declared winner.",
+    "source": "1566–1597",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 33,
+    "name": "Mister and Miss HCCCI",
+    "irr": "MISTER & MISS HCCCI\nThe “Mr. & Ms. HCCCI” is a search for students who embody personality, wit, and beauty, both inside and out, and who will serve as ambassadors of the school in promoting youth advocacies within the school and community. This search will adopt a pageant format, wherein candidates will be required to prepare for and participate in the following portions of the pageant.\nMr. and Ms. HCCCI with number of Participants, Personnel and Judges\nQUALIFICATIONS:\nMust be 18 to 30 years old.\nFemale participants must be at least 5 feet tall.\nMale participants must be at least 5 feet 4 inches tall.\nMust be of good moral character.\nSingle mothers and single fathers may participate, provided they meet all other qualifications.\nMust not be currently married and must never have been legally married.\nMust be able to communicate effectively in Filipino and English.\nMust be officially enrolled at Holy Child Central Colleges, Inc. (HCCCI).\nGUIDELINES and MECHANICS\nThe students of HCCCI were clustered into 4 teams.\nEach team shall have 2 pairs of male and female candidates.\nThe screening of candidates will be held by the pageant committee of each team on their scheduled time and day.\nOnce the candidates are chosen, he/ she is expected to observe the pageant rules and schedule.\nEach candidate shall prepare a speech about their chosen advocacy.\nCandidates’ behavior throughout the pageant will have an impact on her/his final total score.\nProfessionalism and commitment are highly regarded.\nAttendance and tardiness will be strictly monitored.\nEvery tardiness/ late during rehearsals/official functions is equivalent to 0.5 deduction from Her/his total score.\nIn the selection of three finalists, the candidate score from the first segment shall be consolidated.\nThe ranking system shall be used to determine the winners.\nThe decision of the Judges is final.\nCalendar of Activities (Mr. & Ms. HCCCI)\nCategories of Competition\nProduction Number TEAM SHIRT with WHITE JEANS DECORATED NO HEADRESS\nSelf Introduction\nSchool Uniform (to be provided by the Team)\nPreliminary Interview\nSports Attire (to be provided by the Team)  TABLE TENNIS MALE AND FEMALE\nLong Gown Filipiniana for Female/ Barong for male (to be provided by the Team)  NUDE COLOR\nFinal Q & A\nGuidelines and Criteria for Each Exposure Production Number\nDuring this segment, candidates will wear their chosen cultural attire, primarily utilizing T'nalak Cloth or any traditional ethnic fabric from the Province of South Cotabato, along with a head-dress/ piece.\nCriteria for Judging:\nSchool Uniform\nCandidates will wear their school uniform with their ID. No accessories such as bags, books, etc., are allowed. Criteria for Judging:\nPreliminary Interview\nCandidates will answer questions related to core values of the institution and the 17 sustainable development goals.\nCriteria for Judging:\nSports Attire\nCandidates will wear their chosen sports attire, including accessories and hand props related to their chosen sports.\nCriteria for Judging:\nFormal Wear\nMale candidates will wear a modern barong in beige or matte gold, while female candidates will wear a Filipiniana evening gown in gold, provided by each team. Specifications of the formal wear will be discussed by the pageant organizing committee.\nCriteria for Judging:\nPhoto and Video Shoot\nDate and Location:\nThe photo and video shoot will take place on September 19, 2026, starting at 8:00 AM.\nLocation: Library, 2nd Floor, Campus 1, HCCCI.\nSchedule and Segments:\nThere will be two sets of pictorials:\nFirst Set: Head Shots\nSecond Set: Formal Wear\nPreparation:\nCandidates should arrive at the studio at least 30 minutes before their scheduled time to allow for preparation and briefing. Late candidates will have 2 point deduction in the overall tally of points.\nHair and makeup should be done prior to arrival unless otherwise specified by the organizing committee.\nPhotography and Videography:\nProfessional photographers and videographers will be present to capture the images and footage.\nCandidates are expected to follow instructions from the photography and videography team regarding poses, angles, and movements.\nTime Management:\nEach segment will have a designated time slot for shooting. Candidates should adhere to the schedule to ensure smooth operation.\nAny delays should be communicated promptly to the organizing committee.\nProps and Accessories:\nCandidates may use props and accessories relevant to the segment they are shooting, provided they are approved by the organizing committee.\nProps should be handled with care to avoid damage.\nFeedback and Review:\nCandidates will have the opportunity to review their photos and video footage after the shoot.\nFeedback sessions may be organized to provide constructive criticism and guidance for improvement.\nRelease and Usage:\nCandidates may be required to sign a release form allowing the use of their photos and videos for promotional purposes by the organizing committee and by the school.\nUsage rights and permissions will be discussed and clarified prior to the shoot.\nSafety Measures:\nAll safety protocols and guidelines related to COVID-19 and any other communicable disease, if applicable, will be strictly followed.\nAdequate measures will be taken to ensure the safety and well-being of all participants and staff during the shoot.\nAdvocacy Video\nThe advocacy video should be advocating for a cause and relate it to the core values of the school and the 17 sustainable development goals.\nThe video should be between 3 to 5 minutes in length and submitted in a commonly accessible format (e.g., MP4).\nClearly articulate the advocacy message while demonstrating creativity and originality in presentation.\nEnsure that the advocacy aligns with the core values of the school and contributes to advancing one or more of the 17 sustainable development goals.\nEngage the audience effectively and include a clear call to action to inspire action or support for the cause.\nMaintain high production quality in terms of audio, visuals, and overall presentation.\nDemonstrate authenticity and sincerity in conveying the advocacy message.\nCriteria for Judging:\nAlignment with Core Values and SDGs\t30%\n(The advocacy align with the core values of the school and contribute to addressing one or more of the 17 sustainable development goals)\nClarity and Impact of Message\t25%\n(Effectively is the advocacy message communicated, and what impact does it have on the viewer)\nCreativity and Originality\t20%\n(The video demonstrates creativity and originality in its presentation and approach to the advocacy)\nEngagement and Call to Action\t15%\n(The video engages the audience, and is there a clear call to action included)\nProduction Quality\t10%\n(The video in terms of audio, visuals, and overall production quality)\nPeople's Choice Award\nThe People's Choice Award will be determined by the number of heart reactions received on the Facebook post featuring the headshots of the candidates in the official FB page of the Supreme Student Council.\nThe voting period will be announced and clearly specified by the organizing committee.\nOnly reactions on the original post will be counted; reactions on shared posts or duplicate posts will not be considered.\nThe use of \"autolike\" or any form of automated voting is strictly prohibited. Any team found using autolike tools will be disqualified from the People's Choice Award, and no points will be awarded.\nTeams are expected to adhere to fair play and ethical voting practices. Any attempts at manipulation will result in disqualification.\nThe candidate with the highest number of legitimate reactions at the end of the voting period will be declared the winner of the People's Choice Award.\nThe winner will be announced and awarded accordingly by the organizing committee.\nDetermination of the Top 3\nThe following exposure appropriation will determine the Top 3 male and female candidate:\nProduction Number\t10 %\nSchool Uniform\t10 %\nPreliminary Interview\t20 %\nSports Attire\t10 %\nFormal Wear\t10 %\nPhotogenic\t10 %\nBest Advocacy Video\t20 %\nPeople’s Choice Award\t10% TOTAL\t100 %\nTop three (3) candidates (3 males & 3 females) will be chosen in the Finals. In this part there would be a Final Interview.\nThe questions will be coming from the DSAS, one common question for the male category and one common question for the female category and it will only be revealed during the final interview of the top 3 finalists.\nIn this portion, the overall judging will be back to zero. No percentage will be incorporated to this exposure from the previous exposures.\nThis segment will determine the winners of the pageant.\nOVER-ALL PAGEANT TITLES",
+    "source": "1600–1766",
+    "criteria": [
+      { "label": "Production Number", "max": 10 },
+      { "label": "School Uniform", "max": 10 },
+      { "label": "Preliminary Interview", "max": 20 },
+      { "label": "Sports Attire", "max": 10 },
+      { "label": "Formal Wear", "max": 10 },
+      { "label": "Photogenic", "max": 10 },
+      { "label": "Best Advocacy Video", "max": 20 },
+      { "label": "People's Choice Award", "max": 10 }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 34,
+    "name": "HCCCI Next Top Model",
+    "irr": "HCCCI Next Top Model\nEach team is required to provide 6 models for participation in the competition. Particularly  2 males and 2 females 2 LGBTQ.\nThe competition will comprise multiple rounds, including runway walks and themed challenges.\nTwo main categories will be featured:\nWhite Color Creation Dress\nTeam-Inspired Fashion (no cost-playing permitted)\nThe competition prioritizes inclusivity and celebrates diversity, welcoming participants of all genders, body types, and backgrounds.\nThe use of sharp objects (e.g., knife, scissors, cutter), water, and fire for props is strictly prohibited.\nIncidents involving vulgar costumes or performing deadly stunts are also restricted for the safety of all participants.\nEach team must submit their list of participants by September 21, 2026.\nTeams failing to submit their entry on time will incur a deduction of 1 point per hour.\nFailure to submit their entry within the specified timeframe will result in disqualification.\nTop Model Awards\nSpecial Awards\nBest Runway Presence Award - Awarded to the model who exudes confidence, poise, and \t\tcharisma while walking the runway, captivating the audience with their presence.\nMost Stylish Award - Recognizes the model who showcases the most stylish and visually striking ensemble, demonstrating exceptional fashion sense and creativity in their outfit.\nIconic Hair and Makeup Award - Honors the model who flaunts the most striking and trend-setting hair and makeup look, adding an extra dimension to their overall runway presentation.\nInnovative Accessory Showcase Award - Recognizes the model who showcases the most innovative and eye-catching accessories on the runway, enhancing their ensemble and setting trends in accessory styling.\nEffortless Elegance Award - Awarded to the model who epitomizes effortless elegance and sophistication on the runway, displaying grace, refinement, and timeless style in their presentation.\nPeople’s Choice Award\nVoted on by the audience, this award recognizes the model who receives the highest acclaim and admiration from spectators during the fashion show.\nThe People's Choice Award will be determined by the number of heart reactions received on the Facebook post featuring the headshots of the candidates in the official FB page of the Supreme Student Council.\nThe voting period will be announced and clearly specified by the organizing committee.\nOnly reactions on the original post will be counted; reactions on shared posts or duplicate posts will not be considered.\nThe use of \"autolike\" or any form of automated voting is strictly prohibited. Any team found using autolike tools will be disqualified from the People's Choice Award, and no points will be awarded.\nBest Designer Award - Presented to the designer of the model who effectively collaborates in bringing their vision to life on the runway and showcasing innovative design concepts.",
+    "source": "1767–1820",
+    "criteria": [
+      {
+        "label": "Appearance",
+        "max": 15
+      },
+      {
+        "label": "Confidence",
+        "max": 15
+      },
+      {
+        "label": "Modeling Skills",
+        "max": 20
+      },
+      {
+        "label": "Stage Presence",
+        "max": 30
+      },
+      {
+        "label": "Adaptability",
+        "max": 15
+      },
+      {
+        "label": "Overall Potential",
+        "max": 5
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 35,
+    "name": "Mobile Legends: Bang Bang 5v5",
+    "irr": "MOBILE LEGENDS: BANG BANG 5v5\nIMPLEMENTING RULES AND REGULATIONS\n1. Elimination Round\na. Draft Pick, best of 1 elimination.\nb. Semi Finals: Draft Pick, best of 3, single elimination.\n2. Championship Round\na. Draft Pick, best of 4.\n3. Each team will have 12 participants composing 2 teams. One female player is required for each team.\n4. Teams will be shuffled and divided into 2 brackets consisting of 4 teams per bracket.\n5. Registration will be a day before the Intramurals.\n6. Team information, team name, and team captain contact details will be required.\n7. Only the team captain will be added to the group chat for further instructions.\n8. Submit your details to the organizing committee.\n9. Internet connectivity problems are the responsibility of participating teams and will not be a reason for protest. Organizers will not be held liable.\n10. Strictly no piloting of accounts.\n11. No trash talking. Once a team member has trash talked, the whole team shall be disqualified from the entire tournament. Quick Chats such as Good Game are allowed.\n12. There must be proof that the enemy team has trash talked. Teams may use emotes and TP. There is a 15-minute grace period. No outside spectators are allowed.\n13. Each team will be given 2 pauses, 2 minutes per pause.\n14. There will be only 1 spectator per game.\n15. Live streaming will be on the Championship Round and will be posted.\n16. Teams must be in the venue 15 minutes before their scheduled game.\n17. The organizing committee will record and consistently update the result of each game.\n18. The team captain will be notified of the game bracket and schedule via group chat.\nMATCH RECORDING\nDART TEAM 1\nVs\nTEAM 2\nTEAM 3\nVs\nTEAM 4\nWINNER 1\nVs\nWINNER 2\nLOSER 1\nVs\nLOSER 2",
+    "source": "IRR page 57 of 74",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 36,
+    "name": "Magic Chess",
+    "irr": "MAGIC CHESS\nIMPLEMENTING RULES AND REGULATIONS\n1. Each of the four (4) teams shall have two (2) official players, completing a total of eight (8) players per match.\n2. Players must use their own device and game account.\n3. The competition shall use the current official version of Magic Chess.\n4. All eight (8) players shall compete in the designated custom lobby supervised by the tournament facilitator.\n5. Players shall earn points based on their final placement in each match.\n6. The points earned by the two players from each team shall be combined to determine the team standings.\n7. The team with the highest accumulated points shall be declared the winner.\n8. In case of a tie, higher placements or a tie-breaker match shall determine the winner.\n9. Cheating, account sharing, intentional teaming, or use of unauthorized programs is prohibited.\n10. Players must observe proper conduct and sportsmanship throughout the competition.\n11. Technical concerns must be reported immediately to the tournament facilitator.\n12. Awards shall be given to the Champion, 1st Runner-Up, 2nd Runner-Up, and 3rd Runner-Up based on the final team standings.",
+    "source": "Magic Chess IRR supplied by the user",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 37,
+    "name": "Slogan Poster Making (Traditional)",
+    "irr": "TRADITIONAL SLOGAN POSTER MAKING\nA. TRADITIONAL SLOGAN POSTER MAKING\n14. The artwork must be created exclusively during the official contest period. Pre-drawn artwork, illustrations, outlines, lettering, or other prepared elements on the final illustration board are strictly prohibited.\n15. Participants may conceptualize and draft their ideas on separate paper before or during the contest; however, pre-made designs may not be transferred, traced, printed, or reproduced onto the final illustration board.\n16. The poster must prominently feature an original slogan based on the official contest theme: Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\n17. The slogan must be clearly readable and visually integrated into the overall poster design.\n18. Participants must bring their own materials, including coloring materials, paintbrushes, paints, pencils and drawing materials, and an illustration board (A3 or 1/4 size of a whole illustration board).\n19. There shall be no restrictions on the type of coloring materials that may be used, including paint, oil pastel, watercolor, colored pencils, markers, and other appropriate traditional media.\n20. Participants may freely use paint mixing, color combinations, shading, blending, and other traditional artistic techniques.\n21. Printed images, photographs, computer-generated designs, pre-cut illustrations, stickers, or other commercially prepared visual elements shall not be allowed.\n22. The artwork must be completed within the designated competition area and within the official competition period.",
+    "source": "Traditional Slogan Poster Making IRR section supplied by the user",
+    "criteria": [
+      {
+        "label": "Slogan Content, Relevance & Originality",
+        "max": 30
+      },
+      {
+        "label": "Creativity & Concept",
+        "max": 25
+      },
+      {
+        "label": "Visual Impact & Composition",
+        "max": 20
+      },
+      {
+        "label": "Technical Skill & Execution",
+        "max": 15
+      },
+      {
+        "label": "Overall Presentation & Effectiveness",
+        "max": 10
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 38,
+    "name": "Slogan Poster Making (Digital)",
+    "irr": "DIGITAL SLOGAN POSTER MAKING\nB. DIGITAL SLOGAN POSTER MAKING\n23. The digital poster must be created exclusively during the official contest period using a computer, laptop, tablet, or other approved digital device.\n24. Participants may prepare their concept, slogan ideas, and general planning before the competition; however, the final digital artwork must be created during the official competition period.\n25. The digital poster must prominently feature an original slogan based on the official contest theme: Four Nations Clashing, One Spirit Soaring: Unleash the Cardinal Avatar Within.\n26. The slogan must be original, readable, creative, relevant, and clearly connected to the official theme.\n27. Participants may use commonly available digital design and editing applications or software, provided that the final artwork is created by the participating team during the contest.\n28. Participants must provide their own laptop, computer, tablet, or other necessary digital equipment, including chargers and other accessories needed to complete their entry.\n29. Pre-made templates, stock poster designs, downloaded posters, copied artwork, or previously completed digital compositions may not be used as the final entry.\n30. AI-generated images, AI-generated artwork, AI-generated slogans, and AI-generated design elements are strictly prohibited.\n31. The final digital poster must be submitted in the file format, resolution, dimensions, and submission method prescribed by the Organizing Committee.\n32. Participants may be required to submit the editable/source file together with the final output for verification and authentication.",
+    "source": "Digital Slogan Poster Making IRR section supplied by the user",
+    "criteria": [
+      {
+        "label": "Slogan Content, Relevance & Originality",
+        "max": 30
+      },
+      {
+        "label": "Creativity & Concept",
+        "max": 25
+      },
+      {
+        "label": "Visual Impact & Composition",
+        "max": 20
+      },
+      {
+        "label": "Technical Skill & Execution",
+        "max": 15
+      },
+      {
+        "label": "Overall Presentation & Effectiveness",
+        "max": 10
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 39,
+    "name": "Modified Contemporary Duo",
+    "irr": "MODIFIED CONTEMPORARY DUO\nGUIDELINES AND MECHANICS\n1. Each team shall provide one (1) entry consisting of one (1) pair of participants.\n2. The Modified Contemporary Duo is open to participants of any gender. The pair may be composed of any gender combination, including male-female, male-male, female-female, LGBTQ+ participants, and other gender identities or expressions.\n3. No participant shall be disqualified or disadvantaged based on sex, gender identity, gender expression, or sexual orientation. All participants shall be given equal opportunity to compete.\n4. The duo may choose from the following themes or concepts: Love and Relationships; Social Issues; Inner Turmoil; Joy and Celebration.\n5. Participants may also present an original concept, provided that it is appropriate for the competition.\n6. Each performance shall be a minimum of three (3) minutes and a maximum of five (5) minutes, inclusive of entrance and exit.\n7. Any genre of music may be used, provided that the music is appropriate for a school-based competition.\n8. Original compositions and creative musical arrangements are highly encouraged.\n9. Costumes should enhance the artistic expression, movement, and concept. Costumes must be decent, appropriate, and suitable for a school-based competition. Revealing or inappropriate attire is strictly prohibited.\n10. Props are allowed if safe and do not endanger participants, judges, or audience. Fire, pyrotechnics, and other hazardous materials are prohibited.\n11. Dangerous stunts, lifts, or movements that may pose a significant risk of injury are not allowed.\n12. All lifts and physical interactions must be performed with proper control and consideration for the safety of both participants.\n13. An outside trainer or coach may be allowed exclusively for dance training and choreography, subject to the approved Trainers/Consultants Guidelines of FESTIA 2026.\n14. Any approved outside trainer or coach must have a Memorandum of Agreement with the school or organizing committee before conducting training or practice.\n15. Event coordinators must meet with and orient the approved trainer or coach before official practice or training regarding rules, safety protocols, schedules, and requirements.\n16. Make-up artists must be bona fide students of the school. Outside or non-student make-up artists are not allowed. Alumni students may assist as make-up artists.\n17. Videographers, editors, costume designers, and other production personnel must likewise be bona fide students unless expressly approved by the Organizing Committee.\n18. If rehearsals or training are conducted off campus, participating students must secure a parent or guardian permit or written consent before attending.\n19. Participating teams are responsible for their own safety and well-being during rehearsals and performances and must comply with all school and organizing committee safety protocols.\nAny violation shall be subject to deductions or sanctions determined by the Organizing Committee. All decisions of the Board of Judges are final and irrevocable.\nCRITERIA FOR JUDGING\nTechnical Proficiency - 30 points\nArtistic Expression and Interpretation - 30 points\nChoreography and Creativity - 20 points\nStage Presence and Overall Impact - 20 points",
+    "source": "Modified Contemporary Duo IRR page 38 of 74",
+    "criteria": [
+      {
+        "label": "Technical Proficiency",
+        "max": 30
+      },
+      {
+        "label": "Artistic Expression & Interpretation",
+        "max": 30
+      },
+      {
+        "label": "Choreography & Creativity",
+        "max": 20
+      },
+      {
+        "label": "Stage Presence & Overall Impact",
+        "max": 20
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 40,
+    "name": "Mass Dance",
+    "irr": "MASS DANCE\nGUIDELINES AND MECHANICS\n1. Each participating team shall have a minimum of fifty (50) and a maximum of seventy (70) participants.\n2. The performance must be aligned with the official Intramurals theme and clearly reflect the identity, concept, or inspiration assigned to the team.\n3. Each team shall be given a performance time of 6-8 minutes, inclusive of entrance and exit.\n4. The routine should showcase synchronization, creativity, formations, transitions, energy, and teamwork.\n5. Props are highly encouraged to enhance the overall concept and visual impact.\n6. Props, costumes, music, and choreography must be appropriate for a school-based event and must support the team theme or inspiration.\n7. Dangerous stunts, unsafe movements, or props that may cause injury to performers or spectators are strictly prohibited.\n8. Teams are encouraged to maximize the performance area through creative formations, levels, and coordinated movements.\n9. An outside trainer or choreographer may be allowed, subject to the approved FESTIA 2026 Trainers/Consultants Guidelines, including required MOA and orientation.\n10. Off-campus rehearsals require written parental or guardian consent from participating students.\n11. Any violation of the prescribed guidelines may result in corresponding deductions or sanctions.\n12. All decisions of the Board of Judges are final and irrevocable.\nCRITERIA FOR JUDGING\nSynchronization & Coordination - 25 points\nChoreography & Creativity - 25 points\nTheme Interpretation & Concept - 20 points\nExecution, Energy & Stage Presence - 20 points\nCostumes, Props & Overall Visual Impact - 10 points",
+    "source": "Mass Dance IRR page 39 of 74",
+    "criteria": [
+      {
+        "label": "Synchronization & Coordination",
+        "max": 25
+      },
+      {
+        "label": "Choreography & Creativity",
+        "max": 25
+      },
+      {
+        "label": "Theme Interpretation & Concept",
+        "max": 20
+      },
+      {
+        "label": "Execution, Energy & Stage Presence",
+        "max": 20
+      },
+      {
+        "label": "Costumes, Props & Overall Visual Impact",
+        "max": 10
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 41,
+    "name": "Dance Sport (Latin)",
+    "irr": "DANCE SPORT (LATIN)\nGUIDELINES AND MECHANICS\n1. Each team shall provide two (2) pairs of participants.\n2. Participants shall perform Latin dances such as Cha-Cha, Samba, Rumba, Paso Doble, and Jive, based on the final competition format.\n3. Performance will be based on the music provided by the committee.\n4. Each level of dance will consume 1:30 to 2:00 minutes. All contestants will dance on the floor while judges score individually using the Absolute Judging System (AJS).\n5. Performances shall demonstrate proper technique, rhythm, timing, coordination, partnering, body movement, and musical interpretation.\n6. Costumes must be decent, appropriate, safe, and suitable for a school-based competition.\n7. Use of props is strictly prohibited.\n8. Lifts are allowed but must not be excessive. Dangerous lifts, stunts, or movements that may cause injury are prohibited.\n9. Outside trainers or coaches may be allowed but must comply with the approved FESTIA 2026 Trainers/Consultants Guidelines, including the required MOA and orientation.\n10. Make-up artists must be bona fide students. Alumni may assist, but outside non-student make-up artists are not allowed.\n11. Off-campus practices require written parental or guardian consent.\n12. Violations may result in deductions or sanctions.\n13. The decision of the Board of Judges is final and irrevocable.\nCRITERIA FOR JUDGING\nTechnical Skill & Execution - 30 points\nRhythm, Timing & Musicality - 20 points\nPartnering & Coordination - 20 points\nChoreography & Creativity - 15 points\nStage Presence & Overall Performance - 15 points",
+    "source": "Dance Sport (Latin) IRR page 53 of 74",
+    "criteria": [
+      {
+        "label": "Technical Skill & Execution",
+        "max": 30
+      },
+      {
+        "label": "Rhythm, Timing & Musicality",
+        "max": 20
+      },
+      {
+        "label": "Partnering & Coordination",
+        "max": 20
+      },
+      {
+        "label": "Choreography & Creativity",
+        "max": 15
+      },
+      {
+        "label": "Stage Presence & Overall Performance",
+        "max": 15
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 42,
+    "name": "Modified Volleyball",
+    "irr": "MODIFIED VOLLEYBALL\nGAME RULES AND POINT SYSTEM\n1. Each team must have 6 participants (mix).\n2. The game begins with a coin toss to decide which team serves first.\n3. The net is covered with cloth or tarp so players cannot see through it.\n4. A huge rubberized ball will be provided by the committee.\n5. The serving team performs an underhand serve to send the huge ball over the covered net.\n6. Each team is allowed a maximum of three (3) touches to return the ball.\n7. Players use soft hits, passes, or pushes instead of spikes or hard strikes to safely direct the huge ball.\n8. A point is scored when the ball lands inside the opponent's court, the opposing team fails to return the ball within three touches, or the ball goes out of bounds after being touched last by the opponent.\n9. The game uses a rally scoring system, meaning a point is awarded on every serve.\n10. When a team wins a rally and regains the right to serve, players rotate clockwise before the next serve.\n11. The first team to reach 15 points wins the set; the match is played in the best of three sets.\n12. Violations include catching or holding the ball, exceeding three touches, touching the net, or stepping out of bounds.\n13. The team that wins two out of three sets is declared the winner.",
+    "source": "Modified Volleyball IRR supplied by the user",
+    "criteria": [],
+    "type": "result"
+  },
+  {
+    "id": 43,
+    "name": "Arnis Exhibition - Synchronized Double Baston (Yantok)",
+    "irr": "ARNIS EXHIBITION - SYNCHRONIZED DOUBLE BASTON (YANTOK)\nGUIDELINES AND MECHANICS\n1. Each team shall provide one (1) group for the Arnis Exhibition.\n2. The performance shall feature Synchronized Double Baston (Yantok), emphasizing technique, synchronization, discipline, coordination, timing, footwork, and creativity.\n3. The number of participants shall be determined by the Organizing Committee.\n4. Performance time shall be 3-5 minutes, including entrance and exit.\n5. Only approved and properly maintained Arnis sticks or yantok may be used and must undergo safety inspection before the performance.\n6. Intentional striking, uncontrolled weapon releases, dangerous movements, or actions that may endanger performers or spectators are strictly prohibited.\n7. Participants must maintain proper spacing, control, grip, striking angles, blocking techniques, footwork, and synchronization.\n8. Music, costumes, and approved props may be used if appropriate and if they do not compromise safety.\n9. Outside trainers or coaches may be allowed but must comply with the approved FESTIA 2026 Trainers/Consultants Guidelines, including the required MOA and orientation.\n10. Make-up artists must be bona fide students; alumni may assist, but outside non-student make-up artists are not allowed.\n11. Off-campus practices require written parental or guardian consent.\n12. Organizers may stop a performance if any movement or handling of the yantok is considered unsafe.\n13. Violations may result in deductions or sanctions.\n14. The decision of the Board of Judges is final and irrevocable.\nCRITERIA FOR JUDGING\nTechnique & Proper Execution - 25 points\nSynchronization & Coordination - 30 points\nTiming, Rhythm & Precision - 20 points\nChoreography & Creativity - 15 points\nDiscipline, Stage Presence & Overall Impact - 10 points",
+    "source": "Arnis Exhibition IRR page 54 of 74",
+    "criteria": [
+      {
+        "label": "Technique & Proper Execution",
+        "max": 25
+      },
+      {
+        "label": "Synchronization & Coordination",
+        "max": 30
+      },
+      {
+        "label": "Timing, Rhythm & Precision",
+        "max": 20
+      },
+      {
+        "label": "Choreography & Creativity",
+        "max": 15
+      },
+      {
+        "label": "Discipline, Stage Presence & Overall Impact",
+        "max": 10
+      }
+    ],
+    "type": "judged"
+  },
+  {
+    "id": 44,
+    "name": "Kadang Race",
+    "irr": "KADANG-KADANG RACE\nGUIDELINES AND MECHANICS\n1. Single elimination type.\n2. Each team shall be composed of 5 players. Each team shall provide kadang or bamboo stilts. Foot steps must be 12 inches higher than the ground.\n3. Teams that violate the rules and mechanics of the game will be eliminated.\n4. Every player from the starting line must use the kadang to walk through the turning point and back to the starting line.\n5. The first player must relay to the next player until all players of the team participate.\n6. The team that finishes earlier than the other team will be the winner and may compete in the next round.\n7. All players who violate the rules or mechanics will be automatically eliminated.",
+    "source": "Kadang-Kadang Race IRR page 60 of 74",
+    "criteria": [],
+    "type": "result"
+  }
+]
